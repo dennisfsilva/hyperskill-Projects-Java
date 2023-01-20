@@ -13,12 +13,7 @@ To improve readability, I will organize and present each project based on their 
 ### List of projects completed by me while learning Java
 
 Easy difficulty level:
-  - [Simple Chatty Bot] - basic chatty bot
-  - [Zookeeper] - basics of console
-  - [Cinema Room Manager] - reserve your sit 💎
+  - [Simple Chatty Bot](https://github.com/dennisfsilva/hyperskill-Simple-Chatty-Bot-Java) - basic chatty bot
+  - [Zookeeper](https://github.com/dennisfsilva/hyperskill-Zookeeper-Java) - basics of console
+  - [Cinema Room Manager](https://github.com/dennisfsilva/hyperskill-Cinema-Room-Manager-Java) - reserve your sit 💎
 
-<!-- easy -->
-   [Simple Chatty Bot]: 
-   [Zookeeper]: 
-   [Cinema Room Manager]: https://github.com/dennisfsilva/hyperskill-Cinema-Room-Manager-Java
-   
