@@ -16,4 +16,4 @@ Easy difficulty level:
   - [Simple Chatty Bot](https://github.com/dennisfsilva/hyperskill-Simple-Chatty-Bot-Java) - basic chatty bot
   - [Zookeeper](https://github.com/dennisfsilva/hyperskill-Zookeeper-Java) - basics of console
   - [Cinema Room Manager](https://github.com/dennisfsilva/hyperskill-Cinema-Room-Manager-Java) - reserve your sit 💎
-
+  - [Tic Tac Toe](https://github.com/dennisfsilva/hyperskill-Tic-Tac-Toe-Java) - player vs player game 💎
