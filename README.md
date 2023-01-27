@@ -1,4 +1,4 @@
-# Hyperskill Roadmap Projects [Java]
+# Hyperskill Roadmap Projects ![Java](https://badges.aleen42.com/src/java.svg)
 
 This repository serves as a portfolio of my programming proficiency, showcasing a curated selection of projects completed on JetBrains' Hyperskill platform, while learning Java. 
 
@@ -10,7 +10,7 @@ To improve readability, I will organize and present each project based on their 
 * Each project has its own independent repository.
 * Worth checking out 💎
 
-### List of projects completed by me while learning Java
+### List of projects completed by me while learning Java: 
 
 Easy difficulty level:
   - [Simple Chatty Bot](https://github.com/dennisfsilva/hyperskill-Simple-Chatty-Bot-Java) - basic chatty bot
