@@ -10,7 +10,7 @@ To improve readability, I will organize and present each project based on their 
 * Each project has its own independent repository.
 * Worth checking out 💎
 
-### List of projects completed by me while learning Java: 
+### List of projects I have successfully completed during my Java learning journey, utilizing IntelliJ ![IDEA](https://badges.aleen42.com/src/idea.svg)
 
 Easy difficulty level:
   - [Simple Chatty Bot](https://github.com/dennisfsilva/hyperskill-Simple-Chatty-Bot-Java) - basic chatty bot
