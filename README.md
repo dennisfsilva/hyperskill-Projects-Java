@@ -18,3 +18,4 @@ Easy difficulty level:
   - [Cinema Room Manager](https://github.com/dennisfsilva/hyperskill-Cinema-Room-Manager-Java) - reserve your sit 💎
   - [Tic Tac Toe](https://github.com/dennisfsilva/hyperskill-Tic-Tac-Toe-Java) - player vs player game 💎
   - [Coffee Machine](https://github.com/dennisfsilva/hyperskill-Coffee-Machine-Java) - coffee machine simulation
+  - [Bulls and Cows](https://github.com/dennisfsilva/hyperskill-Bulls-and-Cows-Java) - guess the secret code
