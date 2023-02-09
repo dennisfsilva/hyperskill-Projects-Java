@@ -12,7 +12,7 @@ To improve readability, I will organize and present each project based on their 
 
 ### Compilation of projects I have successfully accomplished:
 
-Easy difficulty level:
+![Easy](https://i.imgur.com/2vmB65w.png) Easy difficulty level:
   - [Simple Chatty Bot](https://github.com/dennisfsilva/hyperskill-Simple-Chatty-Bot-Java) - basic chatty bot
   - [Zookeeper](https://github.com/dennisfsilva/hyperskill-Zookeeper-Java) - basics of console
   - [Cinema Room Manager](https://github.com/dennisfsilva/hyperskill-Cinema-Room-Manager-Java) - reserve your sit 💎
