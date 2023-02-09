@@ -19,3 +19,4 @@ Easy difficulty level:
   - [Tic Tac Toe](https://github.com/dennisfsilva/hyperskill-Tic-Tac-Toe-Java) - player vs player game 💎
   - [Coffee Machine](https://github.com/dennisfsilva/hyperskill-Coffee-Machine-Java) - coffee machine simulation
   - [Bulls and Cows](https://github.com/dennisfsilva/hyperskill-Bulls-and-Cows-Java) - guess the secret code
+  - [Chuck Norris Cipher Encoder](https://github.com/dennisfsilva/hyperskill-Chuck-Norris-Cipher-Encoder-Java) - binary and unary converter 💎
