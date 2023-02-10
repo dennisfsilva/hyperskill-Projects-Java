@@ -20,3 +20,4 @@ To improve readability, I will organize and present each project based on their 
   - [Coffee Machine](https://github.com/dennisfsilva/hyperskill-Coffee-Machine-Java) - coffee machine simulation
   - [Bulls and Cows](https://github.com/dennisfsilva/hyperskill-Bulls-and-Cows-Java) - guess the secret code
   - [Chuck Norris Cipher Encoder](https://github.com/dennisfsilva/hyperskill-Chuck-Norris-Cipher-Encoder-Java) - binary and unary converter 💎
+  - [Rock Paper Scissors](https://github.com/dennisfsilva/hyperskill-Rock-Paper-Scissors-Java) - extended rock paper scissors
