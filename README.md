@@ -16,8 +16,8 @@ To improve readability, I will organize and present each project based on their 
   - [Simple Chatty Bot](https://github.com/dennisfsilva/hyperskill-Simple-Chatty-Bot-Java) - basic chatty bot
   - [Zookeeper](https://github.com/dennisfsilva/hyperskill-Zookeeper-Java) - basics of console
   - [Cinema Room Manager](https://github.com/dennisfsilva/hyperskill-Cinema-Room-Manager-Java) - reserve your sit 💎
-  - [Tic Tac Toe](https://github.com/dennisfsilva/hyperskill-Tic-Tac-Toe-Java) - player vs player game 💎
+  - [Tic Tac Toe](https://github.com/dennisfsilva/hyperskill-Tic-Tac-Toe-Java) - player vs player game
   - [Coffee Machine](https://github.com/dennisfsilva/hyperskill-Coffee-Machine-Java) - coffee machine simulation
   - [Bulls and Cows](https://github.com/dennisfsilva/hyperskill-Bulls-and-Cows-Java) - guess the secret code
   - [Chuck Norris Cipher Encoder](https://github.com/dennisfsilva/hyperskill-Chuck-Norris-Cipher-Encoder-Java) - binary and unary converter 💎
-  - [Rock Paper Scissors](https://github.com/dennisfsilva/hyperskill-Rock-Paper-Scissors-Java) - extended rock paper scissors
+  - [Rock Paper Scissors](https://github.com/dennisfsilva/hyperskill-Rock-Paper-Scissors-Java) - extended rock paper scissors 💎
