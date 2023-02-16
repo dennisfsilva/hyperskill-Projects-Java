@@ -21,4 +21,4 @@ To improve readability, I will organize and present each project based on their 
   - [Bulls and Cows](https://github.com/dennisfsilva/hyperskill-Bulls-and-Cows-Java) - guess the secret code
   - [Chuck Norris Cipher Encoder](https://github.com/dennisfsilva/hyperskill-Chuck-Norris-Cipher-Encoder-Java) - binary and unary converter 
   - [Rock Paper Scissors](https://github.com/dennisfsilva/hyperskill-Rock-Paper-Scissors-Java) - extended rock paper scissors 💎
-  - [Amazing Numbers](https://github.com/dennisfsilva/hyperskill-Amazing-Numbers-Java) - extended rock paper scissors 💎
+  - [Amazing Numbers](https://github.com/dennisfsilva/hyperskill-Amazing-Numbers-Java) - get number properties 💎
