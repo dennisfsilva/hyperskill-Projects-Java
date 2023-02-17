@@ -2,6 +2,8 @@
 
 This repository serves as a portfolio of my programming proficiency, showcasing a curated selection of projects completed on JetBrains' Hyperskill platform, while learning Java. 
 
+I'm following the [Java Developer](https://hyperskill.org/tracks/17) path.
+
 Each project exemplifies my in-depth understanding and mastery of the Java programming language, and its various applications.
 
 To improve readability, I will organize and present each project based on their level of complexity for clearer understanding.
@@ -16,9 +18,11 @@ To improve readability, I will organize and present each project based on their 
   - [Simple Chatty Bot](https://github.com/dennisfsilva/hyperskill-Simple-Chatty-Bot-Java) - basic chatty bot
   - [Zookeeper](https://github.com/dennisfsilva/hyperskill-Zookeeper-Java) - basics of console
   - [Cinema Room Manager](https://github.com/dennisfsilva/hyperskill-Cinema-Room-Manager-Java) - reserve your sit 💎
-  - [Tic Tac Toe](https://github.com/dennisfsilva/hyperskill-Tic-Tac-Toe-Java) - player vs player game
-  - [Coffee Machine](https://github.com/dennisfsilva/hyperskill-Coffee-Machine-Java) - coffee machine simulation
+  - [Tic Tac Toe](https://github.com/dennisfsilva/hyperskill-Tic-Tac-Toe-Java) - player vs player game 💎
   - [Bulls and Cows](https://github.com/dennisfsilva/hyperskill-Bulls-and-Cows-Java) - guess the secret code
-  - [Chuck Norris Cipher Encoder](https://github.com/dennisfsilva/hyperskill-Chuck-Norris-Cipher-Encoder-Java) - binary and unary converter 
-  - [Rock Paper Scissors](https://github.com/dennisfsilva/hyperskill-Rock-Paper-Scissors-Java) - extended rock paper scissors 💎
+  - [Chuck Norris Cipher Encoder](https://github.com/dennisfsilva/hyperskill-Chuck-Norris-Cipher-Encoder-Java) - binary and unary converter
+
+![Medium](https://i.imgur.com/MrFxVny.png) Medium difficulty level:
   - [Amazing Numbers](https://github.com/dennisfsilva/hyperskill-Amazing-Numbers-Java) - get number properties 💎
+  - [Rock Paper Scissors](https://github.com/dennisfsilva/hyperskill-Rock-Paper-Scissors-Java) - extended rock paper scissors 💎
+  - [Coffee Machine](https://github.com/dennisfsilva/hyperskill-Coffee-Machine-Java) - coffee machine simulation
