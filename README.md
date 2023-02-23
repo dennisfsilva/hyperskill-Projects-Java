@@ -26,3 +26,4 @@ To improve readability, I will organize and present each project based on their 
   - [Amazing Numbers](https://github.com/dennisfsilva/hyperskill-Amazing-Numbers-Java) - get number properties 💎
   - [Rock Paper Scissors](https://github.com/dennisfsilva/hyperskill-Rock-Paper-Scissors-Java) - extended rock paper scissors 💎
   - [Coffee Machine](https://github.com/dennisfsilva/hyperskill-Coffee-Machine-Java) - coffee machine simulation
+  - [Readability Score](https://github.com/dennisfsilva/hyperskill-Readability-Score-Java) - text difficulty index
